@@ -19,6 +19,8 @@ namespace DemoGit
         List<float> lst;
         //Tao cung them nhe test02
         Dictionary<string, string> dict;
+        //admin them 1 cai hash
+        HashSet<int> hs;
         
         public int id;
         public string name;
