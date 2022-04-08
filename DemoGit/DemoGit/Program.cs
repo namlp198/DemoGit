@@ -15,6 +15,9 @@ namespace DemoGit
             string name = "namlp";
             Console.WriteLine("Hello World!");
             Console.WriteLine($"{name} dep trai vai {index}!");
+            //Them lam gi? tao them cho 1 bien f nhe
+            double f = 1.0;
+            Console.WriteLine($"{f}");
             Console.ReadLine();
         }
     }
