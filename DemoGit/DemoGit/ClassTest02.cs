@@ -11,6 +11,8 @@ namespace DemoGit
     {
         Task<string> task;
         Thread thread;
+        //Them 1 cai list nhe
+        List<float> lst;
         public int id;
         public string name;
     }
