@@ -21,6 +21,9 @@ namespace DemoGit
         Dictionary<string, string> dict;
         //admin them 1 cai hash
         HashSet<int> hs;
+
+        //Tao la test01 day. gio tao moi dc them cai gi do
+        List<string> lstTest01;
         
         public int id;
         public string name;
