@@ -10,9 +10,11 @@ namespace DemoGit
     {
         static void Main(string[] args)
         {
+            //update them bien index
+            int index = 0;
             string name = "namlp";
             Console.WriteLine("Hello World!");
-            Console.WriteLine($"{name} dep trai vai!");
+            Console.WriteLine($"{name} dep trai vai {index}!");
             Console.ReadLine();
         }
     }
